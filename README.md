@@ -1,7 +1,7 @@
 # -Smart-Financial-Management
 
 # Prerequisites
-- Python 3.x
+- Python 3.11.10
 
 # Set up
 1. Clone the repository:
